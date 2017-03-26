@@ -1,0 +1,2 @@
+# garrysmod
+added rules
